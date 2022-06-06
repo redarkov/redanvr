@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @redanvr
-- 📫 How to reach me drev670@gmail.com...
+- 📫 How to reach me drev670@gmail.com
+- Telegram: https://t.me/redarkov
 
 <!---
 redanvr/redanvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
